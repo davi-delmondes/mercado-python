@@ -31,7 +31,7 @@ O projeto permite o cadastro de usuários, login como administrador ou cliente, 
 - [Davi Delmondes](https://github.com/davi-delmondes)
 - [João Marcelo](https://github.com/Joaomarcelloo-dev)
 - [João Daniel](https://github.com/joao-daniell)
-- [Lorrã Myguel](https://github.com/username-do-participante-4)
+- [Lorrã Myguel](https://github.com/lorra-myguel)
 
 ## ▶️ Como executar
 

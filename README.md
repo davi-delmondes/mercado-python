@@ -19,7 +19,7 @@ O projeto permite o cadastro de usuários, login como administrador ou cliente, 
 - Remoção de itens do carrinho
 - Finalização de compra
 - Relatório de vendas
-- Salvamento de dados em JSON
+- Salvamento de dados com JSON
 
 ## 🧰 Tecnologias utilizadas
 

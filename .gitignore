@@ -216,3 +216,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Dados reais do Mercado Python
+
+dados_mercado_python.json
+
+# Arquivos do sistema operacional
+
+Thumbs.db
+.DS_Store
